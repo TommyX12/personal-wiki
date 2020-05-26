@@ -1,0 +1,257 @@
+
+* Table of Contents
+:PROPERTIES:
+:TOC:      :include all
+:END:
+
+:CONTENTS:
+- [[#table-of-contents][Table of Contents]]
+- [[#graduate-schools][Graduate Schools]]
+  - [[#stanford-cs][Stanford CS]]
+    - [[#requirements][Requirements]]
+    - [[#deadline][Deadline]]
+  - [[#cmu][CMU]]
+    - [[#requirements][Requirements]]
+    - [[#deadline][Deadline]]
+- [[#standardized-tests][Standardized Tests]]
+  - [[#graduate-record-examination-gre][Graduate Record Examination (GRE)]]
+    - [[#test-structure][Test structure]]
+      - [[#writing-section][Writing section]]
+      - [[#verbal-section][Verbal section]]
+      - [[#math-section][Math section]]
+      - [[#resources][Resources]]
+  - [[#test-of-english-as-a-foreign-language-toefl][Test of English as a Foreign Language (TOEFL)]]
+- [[#knowledge][Knowledge]]
+  - [[#gre-quantitative][GRE Quantitative]]
+    - [[#useful-math-knowledge][Useful math knowledge]]
+      - [[#quartile][Quartile]]
+      - [[#expectation-properties][Expectation properties]]
+      - [[#variance-and-standard-deviation-properties][Variance and standard deviation properties]]
+      - [[#percentile][Percentile]]
+      - [[#randomly-choosing-k-elements-from-a-set-of-n-elements][Randomly choosing k elements from a set of n elements]]
+      - [[#types-of-triangles][Types of triangles]]
+      - [[#triangle-properties][Triangle properties]]
+      - [[#range-of-a-list-of-number][Range of a list of number]]
+      - [[#probability-properties][Probability properties]]
+      - [[#normal-distribution][Normal distribution]]
+    - [[#strategies-and-tips][Strategies and tips]]
+    - [[#points-to-watch-out][Points to watch out]]
+:END:
+
+* Graduate Schools
+
+** Stanford CS
+website: International Applicants | Graduate Admissions: https://gradadmissions.stanford.edu/applying/international-applicants
+
+*** Requirements
+- GRE General Test
+  (See Required Exams | Graduate Admissions: https://gradadmissions.stanford.edu/applying/starting-your-application/required-exams)
+  Note that TOFEL is waived: "applicants with degrees from the U.S., Australia, Canada (except Quebec), New Zealand, Singapore, Ireland, and the United Kingdom (England, Scotland, Northern Ireland, Wales) are exempt from taking the TOEFL and do not need to submit the TOEFL waiver request form"
+  Average score: 328/340
+
+- Statement of Purpose
+
+- Letters of Recommendation
+  3 required, 6 maximum
+  At least 1 letter should be a faculty member at the last school you attended as a full-time student (unless you have been out of school for more than five years). Substitutions for faculty recommendations may include work associates or others who can comment on your academic potential for graduate work.
+  Each requires:
+  - Name
+  - Institute or Business Affiliation
+  - Valid email address
+  - Waiver – You must choose whether or not to waive your right to see a recommendation.
+
+- Transcripts (Academic Records)
+
+*** Deadline
+
+** CMU
+Masters:
+- Master of Science in Computer Science
+  more general, but told not so useful if already have CS background
+- Master of Science in Machine Learning
+
+*** Requirements
+- Graduate Record Examination (GRE) scores.
+  Average score: CS: 328-336/340, ML: 323-334/340
+
+- If your native language is not English, then you must submit a TOEFL. A successful applicant will normally have a total iBT score of at least 100.
+- A PDF of your most recent transcript from each college and/or university you attended, even if no degree was granted.
+- Your resume in PDF format.
+- Your Statement of Purpose
+  a concise one or two-page essay describing your primary research interests, related experiences and objective in pursuing a Masters in computer science.
+
+- 3 letters of recommendation, at least 2 of which are from faculty or recent employers.
+
+*** Deadline
+- Master of Science in Computer Science
+  (for 2020-2021)
+  [2019-12-02 Mon]
+  TOEFL test deadline: [2019-11-22 Fri]
+  Late deadline (higher fees): [2019-12-12 Thu]
+
+* Standardized Tests
+
+** Graduate Record Examination (GRE)
+- There's the general test, and other subject tests.
+  Usually only the general one is required.
+
+- You can take the computer GRE at least 21 days apart, up to 5 times every year (within any 365 days window)
+  The paper GRE can be taken as often as it is offered.
+
+- Test is offered very frequently.
+  Closest computer GRE test center is at 425 Bloor St. East, Suite 202, Toronto Ontario Canada M4W3R4.
+
+*** Test structure
+Flow:
+- AWA Essay 1: 30 min
+- AWA Essay 2: 30 min
+- Verbal (30 min) or Math (35 min) or Experimental
+- Verbal (30 min) or Math (35 min) or Experimental
+- Verbal (30 min) or Math (35 min) or Experimental
+- Verbal (30 min) or Math (35 min) or Experimental
+- Verbal (30 min) or Math (35 min) or Experimental
+
+There will be at least 2 verbal sections and 2 math sections. Another (either verbal or math) will be experimental and not count towards the score, but you wouldn't know.
+
+**** Writing section
+2 essays:
+- Issue:
+  Given a topic, take a position and argue for your position.
+- Argument:
+  Given an argument, analyze the argument's assumption and logic.
+  (usually is countering its flaws?)
+
+Judging criteria:
+- clarity: express idea in a clear manner
+- coherency: logical consistency.
+- cogency: convincing, evidence etc.
+- style and grammar.
+
+Strategy notes:
+- Write an outline
+- ...TODO
+
+Writing structure:
+- Shoot for a five-paragraph essay: an intro, three body paragraphs, and a conclusion.
+
+Other points:
+- clearly organized your information
+- paragraphs start with a topic sentence, then flow into specific examples that support your analysis
+- make sure you have a conclusion that articulates what you’ve already stated
+
+**** Verbal section
+Each section has 20 questions, with 30 minutes.
+
+Question types:
+- Text Completion (TC)
+  There will be 1-3 blanks each.
+  6 in total. *about 1 minute each*.
+- Sentence Equivalence (SE)
+  One blank, choose two choices that both works.
+  4 in total. *about 1 minute each*.
+- Reading Comprehension (RC)
+  10 in total. *about 2 minutes each*.
+
+Flow:
+- #1 - #6:
+  *TC*. always 2 single blanks, 2 double blanks, and 2 triple blanks.
+- #7 - #9/#10:
+  *RC*. Medium Reading Passage.
+- #11:
+  RC. Paragraph Argument.
+- #12 - #13:
+  RC. Short Reading Passage.
+- #14 - #17:
+  *SE*.
+- #18 - #19:
+  *RC*. Short Reading Passage
+- #20:
+  RC. Paragraph Argument
+
+**** Math section
+Each section has 20 questions, with 35 minutes.
+
+Question types:
+- Quantitative Comparison (QC)
+  Compare two quantities.
+  These will be tested first.
+- Problem Solving (PS)
+  multiple-choice, multiple-answer, and Numeric Entry questions.
+
+*about 1:45 minute per question*.
+
+You will get to use scratch paper and a given calculator.
+
+**** Resources
+- GRE Analytical Writing (Essay) - Magoosh GRE Blog: https://magoosh.com/gre/ultimate-gre-guide/gre-analytical-writing-essay/
+- GRE Format | What is on the GRE? - Magoosh GRE Blog: https://magoosh.com/gre/ultimate-gre-guide/gre-test-format/
+- GRE Verbal Sections: Question Type Breakdown - Magoosh GRE Blog: https://magoosh.com/gre/2019/gre-verbal-sections-question-type-breakdown/
+- GRE Math Formula eBook: https://magoosh.com/gre/2016/gre-math-formula-ebook/
+- Introduction to the GRE Issue Task (For Test Takers): https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/sample_responses
+- Introduction to the GRE Argument Task (For Test Takers): https://www.ets.org/gre/revised_general/prepare/analytical_writing/argument/sample_responses
+
+** Test of English as a Foreign Language (TOEFL)
+- You can take the TOEFL test at least 3 days apart, but it's only offered about once per week.
+
+- Test is not offered frequently (about once per week), and availability is bad when less than 1 month to test date.
+  Closest two test centers:
+  - 2 Bloor St. West, 22nd Floor
+  - 425 Bloor St. East, Suite 202
+
+* Knowledge
+
+** GRE Quantitative
+
+*** Useful math knowledge
+
+**** Quartile
+Split the set into 4 partitions according to their sorted values.
+Then 1st quartile is the smallest partition, etc.
+
+**** Expectation properties
+Expectation is a linear transformation:
+- $E[X + Y] = E[X] + E[Y]$, where $X$ is a random variable
+- $E[aX] = aE[X]$, where $X$ is a random variable and $a$ is a constant
+
+**** Variance and standard deviation properties
+- $\sigma(X + b) = \sigma(X)$, where $X$ is a random variable
+- $\sigma(aX) = a\sigma(X)$, where $X$ is a random variable and $a$ is a constant
+
+Variance is the square of the standard deviation.
+
+**** Percentile
+x-th percentile: 0-th percentile is the entire set, 99-th percentile is the biggest 1%.
+
+**** Randomly choosing k elements from a set of n elements
+C(n, k) = n! / (k!(n-k)!)
+This is easy to remember: Just shuffle all the elements, and use the first k of them as your selection. Because the permutation within the first k and within the last (n-k) don't matter, we divide them out.
+
+**** Types of triangles
+- equilateral: 3 sides are equal
+- isosceles: 2 of the 3 sides are equal
+
+**** Triangle properties
+- When the angles are 30, 60, 90, then the shorter side is half the hypotenuse.
+
+**** Range of a list of number
+Range = max - min.
+
+**** Probability properties
+- $P(A \cup B) = P(AB^C) + P(A^CB) + P(AB)$
+
+**** Normal distribution
+Probability distribution between:
+- 1 standard deviation: 0.68
+- 2 standard deviation: 0.96
+
+When considering percentile on the normal distribution, notice that x-th percentile is the x% greatest area, and area is the integration of the curve. use this to deduce the area at mid-point given 2 points, etc.
+
+*** Strategies and tips
+- In some cases where they are asking you to find the only number that satisfies some condition, and it's really hard to prove that it's the only one, just verify each option.
+- You don't have to simplify fraction.
+
+*** Points to watch out
+- Giving your answer as a fraction means don't compute the decimal representation.
+- You need to *round* when a precision is given
+- Make sure to account for cases where a variable can be positive or negative.
+
